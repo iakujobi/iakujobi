@@ -8,6 +8,6 @@ I'm currently studying Computer Science at BSU. I'm an Artificial Intelligence I
 
 :desktop_computer: I'm most experienced with `C++`, `Python`, `HTML/CSS`, and `NodeJs`
 
-:page_facing_up: Contact me at [iykejobi@gmail.com]() or connect with me on [LinkedIn!](https://www.linkedin.com/in/ike-akujobi)
+:page_facing_up: Contact me at [iykejobi@gmail.com] or connect with me on [LinkedIn!](https://www.linkedin.com/in/ike-akujobi)
 
 :star2: Fun fact .... There is more to come! Stay Tuned!!!
