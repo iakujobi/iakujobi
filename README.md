@@ -15,4 +15,4 @@ I'm currently studying Computer Science at BSU. I'm an Artificial Intelligence I
 
 :star2: Fun fact .... There is more to come! Stay Tuned!!!
 
-![Ikechukwu's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=iakujobi&show_icons=true&hide_border=true&count_private=true&hide=stars)
+
