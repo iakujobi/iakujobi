@@ -7,7 +7,7 @@ I'm currently studying Computer Science at BSU. I'm an Artificial Intelligence I
 
 :books: Academically, I've studied a wide range of subjects from Discrete Mathematics to Data Stuructes & Algorithm, covering various subjects such as C++, Software Life Cycles and Object-Oriented Programming.
 
-:open_book: I've also taken courses on Udemy such as Web Developer Bootcamp, Data Structures & Algorithm in C++ and Python and SQL Bootcamp.
+:open_book: I've also taken courses on Udemy such as Web Developer Bootcamp, Data Structures & Algorithm in C++, Python and SQL Bootcamp.
 
 :desktop_computer: I'm most experienced with `C++`, `Python`, `HTML/CSS`, and `NodeJs`
 
