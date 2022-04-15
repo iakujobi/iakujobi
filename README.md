@@ -1,7 +1,7 @@
 ### Hi, I'm Ikechukwu!
 ![Profile View Counter](https://komarev.com/ghpvc/?username=iakujobi&color=blue&label=Profile+Views)
 
-I'm currently studying Computer Science at BSU. I'm an Artificial Intelligence Intern at Forward Edge-AI for Summer 2021 and a Graduate Assistant at BSU. I am passionate about developing all kinds of software from machine learning to game design. I am most skilled in C++, Python, and Full-Stack application development. Some of my hobbies include tennis and soccer.
+I'm graduated from Bowie State University with a degree in Computer Science. I am currently a Software Developer and I am passionate about developing all kinds of softwares from games to applications. I am most skilled in Python and Full-Stack application development/deployment using Azure. Some of my hobbies include tennis and soccer.
 
 ---
 
@@ -9,7 +9,7 @@ I'm currently studying Computer Science at BSU. I'm an Artificial Intelligence I
 
 :open_book: I've also taken courses on Udemy such as Web Developer Bootcamp, Data Structures & Algorithm in C++, Python and SQL Bootcamp.
 
-:desktop_computer: I'm most experienced with `C++`, `Python`, `HTML/CSS`, and `NodeJs`
+:desktop_computer: I'm most experienced with `Python`, `HTML/CSS`, and `NodeJs`
 
 :page_facing_up: Contact me at iykejobi@gmail.com or connect with me on [LinkedIn!](https://www.linkedin.com/in/ike-akujobi)
 
