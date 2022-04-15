@@ -1,7 +1,7 @@
 ### Hi, I'm Ikechukwu!
 ![Profile View Counter](https://komarev.com/ghpvc/?username=iakujobi&color=blue&label=Profile+Views)
 
-I'm graduated from Bowie State University with a degree in Computer Science. I am currently a Software Developer and I am passionate about developing all kinds of softwares from games to applications. I am most skilled in Python and Full-Stack application development/deployment using Azure. Some of my hobbies include tennis and soccer.
+I graduated from Bowie State University with a degree in Computer Science. I am currently a Software Developer and I am passionate about developing all kinds of softwares from games to applications. I am most skilled in Python and Full-Stack application development/deployment using Azure. Some of my hobbies include tennis and soccer.
 
 ---
 
